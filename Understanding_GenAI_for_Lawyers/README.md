@@ -32,8 +32,8 @@
 
 * An electric blender vs a Star Trek replicator
 * Opportunity to identify concepts across contexts
-* Current uses for improving existing work of the Service Line
-* Exploration of how the technology could eventually transform the nature of the Service Line
+* Current uses for improving existing work 
+* Exploration of how the technology could eventually transform the nature of the work
 
 ___
 
